@@ -57,7 +57,8 @@
 
 > ### Logging
 > *Controlling the verbosity of alerts and messaging*
->
+> 
+> #### Syntax
 > `(bool)sent, (string)result alerts:LEVEL((string)message)`
 >
 > #### Parameters
